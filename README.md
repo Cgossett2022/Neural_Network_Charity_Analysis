@@ -13,7 +13,9 @@ For this project I used machine learning and neural networks to predict whether 
 - The additional columns: "APPLICATION_TYPE", "AFFILIATION", "CLASSIFICATION", "USE_CASE", "ORGANIZATION", "STATUS", "INCOME_AMT", "SPECIAL_CONSIDERATIONS", "ASK_AMT" became my feature columns.
 
 ### Compile, Train, and Evaluate the Model
-- My model contained 
+- My model contained two hidden layers with 80 and 30 neurons.
+
+- The csv data had
 
 
 
