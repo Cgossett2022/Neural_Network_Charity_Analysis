@@ -35,7 +35,7 @@ For this project I used machine learning and neural networks to predict whether 
 
 <img width="858" alt="model_2" src="https://user-images.githubusercontent.com/111243284/213302978-4ba31cd5-314d-4ff6-b8eb-aa1c41d6a0b7.png">
 
-- The accuracy was 0.7296
+- The accuracy was 0.7313
 
 <img width="851" alt="results_2" src="https://user-images.githubusercontent.com/111243284/213304191-8ca91a7b-5d56-4e22-9e5a-df297aaf1de2.png">
 
