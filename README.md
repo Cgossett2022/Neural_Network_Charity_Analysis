@@ -32,7 +32,7 @@ For this project I used machine learning and neural networks to predict whether 
 <img width="598" alt="results_original" src="https://user-images.githubusercontent.com/111243284/213307854-faf9f7f5-47b7-463a-a667-6943fce12aea.png">
 
 ### Optimize the Model
-- In order to increase the target performance, I added a second model with two layers containing 100 and 30 neurons.
+1. In order to increase the target performance, I added a second model with two layers containing 100 and 30 neurons.
 
 <img width="858" alt="model_2" src="https://user-images.githubusercontent.com/111243284/213302978-4ba31cd5-314d-4ff6-b8eb-aa1c41d6a0b7.png">
 
@@ -40,7 +40,7 @@ For this project I used machine learning and neural networks to predict whether 
 
 <img width="915" alt="100-30_result" src="https://user-images.githubusercontent.com/111243284/213309601-190b48fa-aefe-4310-9457-96180ab1eb00.png">
 
-- I added a third model with three layers containing 80, 30, and 10 neurons.
+2. I added a third model with three layers containing 80, 30, and 10 neurons.
 
 <img width="858" alt="model_3" src="https://user-images.githubusercontent.com/111243284/213308997-dbb41a6c-6ce5-486d-bcf6-0061161c77f7.png">
 
