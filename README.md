@@ -37,7 +37,7 @@ For this project I used machine learning and neural networks to predict whether 
 
 - The accuracy was 0.7313
 
-<img width="851" alt="results_2" src="https://user-images.githubusercontent.com/111243284/213304191-8ca91a7b-5d56-4e22-9e5a-df297aaf1de2.png">
+<img width="915" alt="100-30_result" src="https://user-images.githubusercontent.com/111243284/213309601-190b48fa-aefe-4310-9457-96180ab1eb00.png">
 
 - I added a third model with three layers containing 80, 30, and 10 neurons.
 
