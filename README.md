@@ -35,17 +35,18 @@ For this project I used machine learning and neural networks to predict whether 
 
 <img width="858" alt="model_2" src="https://user-images.githubusercontent.com/111243284/213302978-4ba31cd5-314d-4ff6-b8eb-aa1c41d6a0b7.png">
 
-- The accuracy was 0.7282
+- The accuracy was 0.7296
 
 <img width="851" alt="results_2" src="https://user-images.githubusercontent.com/111243284/213304191-8ca91a7b-5d56-4e22-9e5a-df297aaf1de2.png">
 
 - I added a third model with three layers containing 80, 30, and 10 neurons.
 
-<img width="852" alt="results_3" src="https://user-images.githubusercontent.com/111243284/213304266-4fdb758a-b95b-42dc-8a1a-9bbbf5b8bc9a.png">
+<img width="858" alt="model_3" src="https://user-images.githubusercontent.com/111243284/213308997-dbb41a6c-6ce5-486d-bcf6-0061161c77f7.png">
 
-- The accruacy was 0.7296
+- The accruacy was 0.7282
 
-<img width="851" alt="results_2" src="https://user-images.githubusercontent.com/111243284/213304024-f11a1f9b-dce6-45d0-b1c5-eb21237f782e.png">
+<img width="852" alt="results_3" src="https://user-images.githubusercontent.com/111243284/213308917-3b27e911-5648-4331-a5ad-b7e1957dc08f.png">
+
 
 ## Summary
 The deep learning model reached an accuracy of around 73%, which is just below our target performance of 75% accruacy. 
