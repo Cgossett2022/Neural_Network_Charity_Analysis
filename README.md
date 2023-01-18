@@ -17,7 +17,7 @@ For this project I used machine learning and neural networks to predict whether 
 
 - The model's accruacy was below 75%, which did not achieve the target performance.
 
-- In order to increase the model's performance, I increased the number of neurons to 
+- In order to increase the target performance, I added a second model with two layers containing 100 and 30 neurons, and a third model with three layers.
 
 
 
