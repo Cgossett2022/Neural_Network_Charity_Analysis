@@ -15,7 +15,9 @@ For this project I used machine learning and neural networks to predict whether 
 ### Compile, Train, and Evaluate the Model
 - My model contained two hidden layers with 80 and 30 neurons.
 
-- The csv data had
+- The model's accruacy was below 75%, which did not achieve the target performance.
+
+- In order to increase the model's performance, I increased the number of neurons to 
 
 
 
