@@ -20,5 +20,5 @@ For this project I used machine learning and neural networks to predict whether 
 - In order to increase the target performance, I added a second model with two layers containing 100 and 30 neurons, and a third model with three layers containing 80, 30, and 10 neurons.
 
 ## Summary
-
+- The deep learning model failed to reach the target performance of 75% accruacy. 
 
