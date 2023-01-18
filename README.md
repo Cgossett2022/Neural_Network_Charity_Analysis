@@ -49,7 +49,11 @@ For this project I used machine learning and neural networks to predict whether 
 <img width="851" alt="results_2" src="https://user-images.githubusercontent.com/111243284/213310253-3ee36d59-ac3b-4919-9806-182e0cda6bb5.png">
 
 ## Summary
-The deep learning model reached an accuracy of around 73%, which is just below our target performance of 75% accruacy. 
+The deep learning models reached an accuracy of around 73%, which is just below our target performance of 75% accruacy.
+
+- Model with two layers 80 and 30 neurons = accuracy of .7286
+- Model with two layers 100 and 30 neurons = accuracy of .7313
+- Model with three layers 80, 30, and 10 neurons = accuracy of .7282
 
 ### Recommendation
 I would recommend using a random forest model since it could solve classification problems by sampling the data and building decision trees. 
