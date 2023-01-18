@@ -5,6 +5,16 @@ For this project I used machine learning and neural networks to predict whether 
 
 ## Results
 
+### Preprocess Data
+- I started by removing the EIN and NAME columns from the dataset.
+
+- I established the "IS_SUCCESSFUL" column as the target variable.
+
+- The additional columns: "APPLICATION_TYPE", "AFFILIATION", "CLASSIFICATION", "USE_CASE", "ORGANIZATION", "STATUS", "INCOME_AMT", "SPECIAL_CONSIDERATIONS", "ASK_AMT" became my feature columns.
+
+### Compile, Train, and Evaluate the Model
+- My model contained 
+
 
 
 ## Summary
