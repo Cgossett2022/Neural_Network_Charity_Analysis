@@ -46,8 +46,7 @@ For this project I used machine learning and neural networks to predict whether 
 
 - The accruacy was 0.7282
 
-<img width="852" alt="results_3" src="https://user-images.githubusercontent.com/111243284/213308917-3b27e911-5648-4331-a5ad-b7e1957dc08f.png">
-
+<img width="851" alt="results_2" src="https://user-images.githubusercontent.com/111243284/213310253-3ee36d59-ac3b-4919-9806-182e0cda6bb5.png">
 
 ## Summary
 The deep learning model reached an accuracy of around 73%, which is just below our target performance of 75% accruacy. 
