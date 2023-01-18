@@ -9,7 +9,7 @@ For this project I used machine learning and neural networks to predict whether 
 
 ## Results
 
-### Preprocess Data
+### Preprocess Data for a Neural Network Model
 - I started by removing the EIN and NAME columns from the dataset.
 
 <img width="1117" alt="remove_columns" src="https://user-images.githubusercontent.com/111243284/213302410-67ffb012-8b21-45b6-8978-16b745e9864e.png">
