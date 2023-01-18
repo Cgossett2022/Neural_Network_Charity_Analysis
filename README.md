@@ -29,6 +29,7 @@ For this project I used machine learning and neural networks to predict whether 
 
 - The model's accruacy was below 75%, which did not achieve the target performance.
 
+<img width="598" alt="results_original" src="https://user-images.githubusercontent.com/111243284/213307854-faf9f7f5-47b7-463a-a667-6943fce12aea.png">
 
 - In order to increase the target performance, I added a second model with two layers containing 100 and 30 neurons.
 
